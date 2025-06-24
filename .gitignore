@@ -1,5 +1,5 @@
 # Ignorar todos los notebooks excepto uno
 *.ipynb
 !Cuadrado.ipynb
-!ProyectoElectro.ipynb
+# !ProyectoElectro.ipynb
 !Prueba.ipynb
